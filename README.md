@@ -1,4 +1,4 @@
-# Hi, I'm Sahil Chauhan 👋
+# Hi, I'm Sahil 👋
 
 ### 🚀 Golang Backend Engineer & Tech Entrepreneur
 
